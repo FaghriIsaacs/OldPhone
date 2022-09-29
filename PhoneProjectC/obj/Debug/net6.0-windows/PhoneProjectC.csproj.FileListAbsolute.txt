@@ -1,0 +1,17 @@
+C:\Users\faghr\source\repos\PhoneProjectC\obj\Debug\net6.0-windows\PhoneProjectC.csproj.AssemblyReference.cache
+C:\Users\faghr\source\repos\PhoneProjectC\obj\Debug\net6.0-windows\PhoneProjectC.frmOldPhone.resources
+C:\Users\faghr\source\repos\PhoneProjectC\obj\Debug\net6.0-windows\PhoneProjectC.csproj.GenerateResource.cache
+C:\Users\faghr\source\repos\PhoneProjectC\obj\Debug\net6.0-windows\PhoneProjectC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faghr\source\repos\PhoneProjectC\obj\Debug\net6.0-windows\PhoneProjectC.AssemblyInfoInputs.cache
+C:\Users\faghr\source\repos\PhoneProjectC\obj\Debug\net6.0-windows\PhoneProjectC.AssemblyInfo.cs
+C:\Users\faghr\source\repos\PhoneProjectC\obj\Debug\net6.0-windows\PhoneProjectC.csproj.CoreCompileInputs.cache
+C:\Users\faghr\source\repos\PhoneProjectC\bin\Debug\net6.0-windows\PhoneProjectC.exe
+C:\Users\faghr\source\repos\PhoneProjectC\bin\Debug\net6.0-windows\PhoneProjectC.deps.json
+C:\Users\faghr\source\repos\PhoneProjectC\bin\Debug\net6.0-windows\PhoneProjectC.runtimeconfig.json
+C:\Users\faghr\source\repos\PhoneProjectC\bin\Debug\net6.0-windows\PhoneProjectC.dll
+C:\Users\faghr\source\repos\PhoneProjectC\bin\Debug\net6.0-windows\PhoneProjectC.pdb
+C:\Users\faghr\source\repos\PhoneProjectC\obj\Debug\net6.0-windows\PhoneProjectC.dll
+C:\Users\faghr\source\repos\PhoneProjectC\obj\Debug\net6.0-windows\refint\PhoneProjectC.dll
+C:\Users\faghr\source\repos\PhoneProjectC\obj\Debug\net6.0-windows\PhoneProjectC.pdb
+C:\Users\faghr\source\repos\PhoneProjectC\obj\Debug\net6.0-windows\PhoneProjectC.genruntimeconfig.cache
+C:\Users\faghr\source\repos\PhoneProjectC\obj\Debug\net6.0-windows\ref\PhoneProjectC.dll
